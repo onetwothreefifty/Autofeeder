@@ -1,0 +1,9 @@
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\obj\Debug\Junglefeed.csprojResolveAssemblyReference.cache
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\Junglefeed.exe.config
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\Junglefeed.exe
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\Junglefeed.pdb
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\Ensage.dll
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\SharpDX.Direct3D9.dll
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\bin\Release\SharpDX.dll
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\obj\Debug\Junglefeed.exe
+F:\interimscript\JungleStackModified\Junglefeed\Junglefeed\obj\Debug\Junglefeed.pdb
